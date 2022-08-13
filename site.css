@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 24px;
+}
+
+.body {
+    display: flex;
+}
+
+.data {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background-color: bisque;
+    padding: 12px;
+    width: 90%;
+    display: flex;
+}
+
+.hotel-description {
+    padding: 16px;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.preLocation {
+    display: block;
+    margin-top: 16px;
+}
+
+.location {
+    display: block;
+    margin-top: 4px;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+img {
+    padding: 16px;
+}
+
+.userInput {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background-color: bisque;
+    padding: 16px 24px 24px 24px;
+    width: 50%;
+    margin: auto;
+    margin-left: 24px;
+    box-sizing: border-box;
+}
+
+.stars {
+    font-size: 30px;
+    color: rgb(186, 47, 151);
+}
